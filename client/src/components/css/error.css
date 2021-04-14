@@ -1,0 +1,15 @@
+.error {
+  text-align: center;
+}
+
+.error > div.hr {
+  margin-left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  max-width: 600px;
+  max-height: 5px;
+  min-width: 300px;
+  min-height: 2px;
+  background: black;
+}
+/*# sourceMappingURL=error.css.map */

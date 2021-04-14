@@ -1,0 +1,12 @@
+.page {
+  width: 60%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.page > .page_title {
+  text-align: center;
+  font-size: 48px;
+  font-weight: normal;
+}
+/*# sourceMappingURL=Page.css.map */
