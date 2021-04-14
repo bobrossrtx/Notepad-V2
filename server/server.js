@@ -1,7 +1,7 @@
-import express from 'express';
-import bodyParser from 'body-parser';
-import mongoose from 'mongoose';
-import path from 'path';
+const express = require('express');
+const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
+const path = require('path');
 require('dotenv').config();
 
 mongoose.connect(process.env.MONGODB_KEY, {
